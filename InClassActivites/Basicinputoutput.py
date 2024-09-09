@@ -21,7 +21,7 @@ def main(): #<-- Don't change this line!
     # Output 
     print("New basic input output Program")
     print ("Welcome to our new program")
-    print ("The student's name is: " + studentName)
+    print ("The student's name is: \t" + studentName)
 
     #Your code ends on the line above
 
